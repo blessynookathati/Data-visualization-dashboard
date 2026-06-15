@@ -6,7 +6,7 @@ A responsive and interactive data visualization dashboard built with **React** a
 
 ## 🚀 Live Demo
 
-🔗 Vercel Deployment: 
+🔗 Vercel Deployment: https://dynamicfilteringdashboard.vercel.app/
 ---
 
 # 📖 Project Overview
@@ -295,6 +295,36 @@ Example:
 ```
 
 ---
+
+# 📸 Screenshots
+
+## Dashboard Overview
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+## Filtered Dashboard
+
+![Filtered Dashboard](./screenshots/filtered-dashboard.png)
+
+---
+
+## Empty State
+
+![Empty State](./screenshots/empty-state.png)
+
+---
+
+## Docker Deployment
+
+![Docker Dashboard](./screenshots/docker-dashboard.png)
+
+---
+
+## Unit Testing
+
+![Unit Test](./screenshots/unit-test.png)
 # 🎯 Learning Outcomes
 
 This project helped strengthen skills in:
