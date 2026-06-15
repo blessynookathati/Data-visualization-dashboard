@@ -1,0 +1,9 @@
+services:
+  dashboard:
+    build: .
+    container_name: data-dashboard
+
+    ports:
+      - "3000:80"
+
+    restart: unless-stopped
